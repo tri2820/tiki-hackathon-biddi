@@ -1,0 +1,21 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "defaultTitle": "Tiki",
+        "titleBarColor": "#fff",
+        "backgroundColor": "#fff"
+    },
+    "tabBar": {
+        "selectedColor": "#ef4f15",
+        "items": [
+            {
+                "name": "Trang chủ x",
+                "pagePath": "pages/index/index",
+                "icon": "",
+                "activeIcon": ""
+            }
+        ]
+    }
+}
