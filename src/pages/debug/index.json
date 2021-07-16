@@ -1,0 +1,9 @@
+{
+    "defaultTitle": "This is a page",
+    "transparentTitle": "none",
+    "titleBarColor": "#1B6BFF",
+    "titleColor": "#fff",
+    "usingComponents": {
+        "debug": "tiki-miniapp-tnx/src/components/debug/index"
+    }
+}

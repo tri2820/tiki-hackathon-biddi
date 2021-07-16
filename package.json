@@ -2,9 +2,12 @@
   "name": "tiki-hackathon",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tiki": {
+    "appIdentifier": "com.test.app",
+    "buildNumber": 2
   },
   "keywords": [],
   "author": "",
@@ -13,7 +16,7 @@
     "@tiki.vn/tini-style": "^0.1.1",
     "@tiki.vn/tini-ui": "^0.1.1",
     "sass": "^1.35.2",
-    "tsc": "^2.0.3",
+    "tiki-miniapp-tnx": "^0.1.1",
     "typescript": "^4.3.5"
   }
 }

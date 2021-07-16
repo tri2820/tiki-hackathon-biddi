@@ -1,0 +1,5 @@
+App({
+    data: {
+        showInfo: true
+    }
+})

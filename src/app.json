@@ -1,6 +1,10 @@
 {
     "pages": [
-        "pages/index/index"
+        "pages/index/index",
+        "pages/user/index",
+        "pages/videos-example/index",
+        "pages/progress-example/index",
+        "pages/debug/index"
     ],
     "window": {
         "defaultTitle": "Tiki",
@@ -11,8 +15,32 @@
         "selectedColor": "#ef4f15",
         "items": [
             {
-                "name": "Trang chủ x",
+                "name": "Trang chủ",
                 "pagePath": "pages/index/index",
+                "icon": "",
+                "activeIcon": ""
+            },
+            {
+                "name": "Profile",
+                "pagePath": "pages/user/index",
+                "icon": "",
+                "activeIcon": ""
+            },
+            {
+                "name": "Video-Ex",
+                "pagePath": "pages/videos-example/index",
+                "icon": "",
+                "activeIcon": ""
+            },
+            {
+                "name": "Progress-Ex",
+                "pagePath": "pages/progress-example/index",
+                "icon": "",
+                "activeIcon": ""
+            },
+            {
+                "name": "Debug",
+                "pagePath": "pages/debug/index",
                 "icon": "",
                 "activeIcon": ""
             }
